@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Welcome to my GitHub! My name is Mark Ayiah, and I am a sophomore at Yale University studying Statistics & Data Science. Here are some things about me:
+Welcome to my GitHub! My name is Mark Ayiah, and I am a junior at Yale University studying Statistics & Data Science. Here are some things about me:
 
-- 🔭 I’m currently working on brainstorming a project to use sentiment analysis and machine learning techniques to analyze NBA twitter...
-- 🌱 I’m currently learning how to use Python and R for machine learning along with some data visualziation techniques to make my projects more accessible.
+- 🔭 I’m currently working on building my data science portfolio to gain more project experience and a better appreciation for the research process from start to finish.
+- 🌱 I’m currently learning how to use geographical software (Geopandas & ArcGIS) to make map visualizations and storyboards as part of my summer data science REU for social good.
 - ⚡ Fun fact: I'm technically Ghanaian royalty!
 
 <!--
